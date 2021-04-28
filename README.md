@@ -2,6 +2,10 @@
 
 > New Year Countdown Timer
 
+## URL
+
+https://new-year-clock.netlify.app/
+
 ## Installation
 
 ```sh
