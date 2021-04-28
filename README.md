@@ -4,6 +4,8 @@
 
 ## URL
 
+<a href="https://new-year-clock.netlify.app/" target="_blank"> New Year Countdown Clock</a>
+
 https://new-year-clock.netlify.app/
 
 ## Installation
